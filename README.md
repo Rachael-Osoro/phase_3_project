@@ -8,3 +8,6 @@ A variant of the influenza virus, H1N1, famously known as swine flu caused a pan
 Immunization is a global health and development success story, saving lives every year. Vaccines reduce disease spread, therefore, maximizing immunization coverage for any population is a crucial public health goal for all countries.
 The aim of this project is to predict the vaccination status of person based on their response to survey questions. The results will be utilized by public health departments to ramp up campaigns, mass vaccination, conduct health education on those assigned unvaccinated in order to promote vaccination against influenza.
 
+## Data & Methods
+Each row in the dataset represents one person who responded to the National 2009 H1N1 Flu Survey and there are two target variables. Data is valid, obtained from 
+< a href = "https://www.cdc.gov/nchs/index.htm"> National Centre for Health Statistics</>
