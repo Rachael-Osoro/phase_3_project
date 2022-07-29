@@ -10,4 +10,4 @@ The aim of this project is to predict the vaccination status of person based on 
 
 ## Data & Methods
 Each row in the dataset represents one person who responded to the National 2009 H1N1 Flu Survey and there are two target variables. Data is valid, obtained from 
-< a href = "https://www.cdc.gov/nchs/index.htm"> National Centre for Health Statistics</>
+< a href = "https://www.cdc.gov/nchs/index.htm"> National Centre for Health Statistics</a>.
