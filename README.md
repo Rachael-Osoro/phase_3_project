@@ -28,15 +28,22 @@ Each row in the dataset represents one person who responded to the National 2009
 There seems to be low uptake of H1N1 vaccine with on about 21% of the respondents being vaccinated. Illustrated in the bar graph below:
 
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/h1n1.png)
-### Model
+### Final Model
 The best model with an accuracy of 83.7% is the XGBoost model. 
+#### Confusion Matrix
 
-# Recommendations
+#### Feature Importance
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/important_features.png)
+
+## Recommendations
+
 1.) Model is able to predict of unvaccinated people. The CDC can reach them through text, email etc to nudge the need for vaccination.
-2.) Encourage doctors to recommend vaccinations to the genral public.
-3.) Dispell fears about the vaccine, by providing adequate information about vaccine effectiveness.
-4.) Educating the public on risk factors of the disease, preventive measures.
+
+2.) Encourage doctors to recommend vaccinations to the general public.
+
+3.) Dispell misinformation about the vaccine, by providing adequate information about vaccine effectiveness.
+
+4.) Educating the public on risk factors of the H1N1, it's spread and preventive measures so that the public has factual reliable information.
 
 # Limitations
 Data is not recent hence model may not depict current H1N1 vaccine uptake.
