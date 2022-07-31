@@ -29,9 +29,12 @@ There seems to be low uptake of H1N1 vaccine with on about 21% of the respondent
 
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/h1n1.png)
 ### Final Model
-The best model with an accuracy of 83.7% is the XGBoost model. 
+After iterating through logistic regression, decision trees, random forests and gradient boosting classiers, the the highest accuracy of 83.7% is the XGBoost model.
+83.7% of respondents will be predicted into the right class.
 #### Confusion Matrix
+The model predicts 75% as True negatives, 9.1% True positives, 4.2% false positives and 1.2% false negatives.
 
+![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/confusion_matrix.png)
 #### Feature Importance
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/important_features.png)
 
