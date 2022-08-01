@@ -30,16 +30,16 @@ There seems to be low uptake of H1N1 vaccine with on about 21% of the respondent
 
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/h1n1.png)
 ### Final Model
-After iterating through logistic regression, decision trees, random forests and gradient boosting classiers, the the highest accuracy of 83.7% is the XGBoost model.
-83.7% of respondents will be predicted into the right class.
+After iterating through logistic regression, decision trees, random forests, XGBoost model and gradient boosting classifiers, tuned Random forests classifier with accuracy of 83.3% and precision 71.6% is the model.
+83.3% of respondents will be predicted into the right class.
 #### Confusion Matrix
-The model predicts 75% as True negatives, 9.1% True positives, 4.2% false positives and 1.2% false negatives.
+The model predicts 76% as True negatives, 7.5% True positives, 3% false positives and 14% false negatives.
 
-![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/confusion_matrix.png)
+![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/conf_matrix.png)
 #### Feature Importance
 The major features affecting vaccine uptake:
 
-![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/important_features.png)
+![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/imp_feat.png)
 
 ## Recommendations
 
