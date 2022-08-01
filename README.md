@@ -66,8 +66,9 @@ The major features affecting vaccine uptake:
 # Limitations
 Data is not recent hence model may not depict current H1N1 vaccine uptake.
 # Dependencies
+Anaconda + XGBoost or
 Python,
 sklearn,
-matplotlib, 
-XGBooster.
+matplotlib &, 
+XGBoost.
 
