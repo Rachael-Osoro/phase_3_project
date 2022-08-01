@@ -3,6 +3,16 @@
 
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/vax.jpg)
 
+## Repo Structure
+
+<a href="https://github.com/Rachael-Osoro/phase_3_project/tree/main/H1N1_data">Dataset</a>
+
+<a href="https://github.com/Rachael-Osoro/phase_3_project/blob/main/H1N1_analysis.ipynb">EDA ipynb</a>
+
+<a href="https://github.com/Rachael-Osoro/phase_3_project/blob/main/models.ipynb">Modelling ipynb</a>
+
+<a href="https://github.com/Rachael-Osoro/phase_3_project/blob/main/H1N1_Analysis_Presentation.pdf">Presentation<a/>
+
 ## Overview
 
 Vaccines reduce risks of getting a disease by working with your body’s natural defences (immunity) to build protection. Vaccines are also critical in the prevention and control of infectious disease outbreaks such as  <a href = "https://en.wikipedia.org/wiki/Influenza"> Influenza</a>, <a href = "https://en.wikipedia.org/wiki/COVID-19"> COVID-19</a>, etc. In addition, vaccines can provide enough immunization in a community further reducing spread of diseases through “herd immunity”. Eventually leading to disease eradication/ elimination for instance Small Pox. 
@@ -30,7 +40,7 @@ There seems to be low uptake of H1N1 vaccine with on about 21% of the respondent
 
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/h1n1.png)
 ### Final Model
-After iterating through logistic regression, decision trees, random forests, XGBoost model and gradient boosting classifiers, tuned Random forests classifier with accuracy of 83.3% and precision 71.6% is the model.
+After iterating through logistic regression, decision trees, random forests, XGBoost model and gradient boosting classifiers, tuned Random forests classifier with accuracy of 83.3% and precision 71.6% is the final model.
 83.3% of respondents will be predicted into the right class.
 #### Confusion Matrix
 The model predicts 76% as True negatives, 7.5% True positives, 3% false positives and 14% false negatives.
