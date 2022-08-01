@@ -12,6 +12,8 @@
 <a href="https://github.com/Rachael-Osoro/phase_3_project/blob/main/models.ipynb">Modelling ipynb</a>
 
 <a href="https://github.com/Rachael-Osoro/phase_3_project/blob/main/H1N1_Analysis_Presentation.pdf">Presentation<a/>
+  
+<a href="https://github.com/Rachael-Osoro/phase_3_project/blob/main/README.md">Readme Markdown<a/>
 
 ## Overview
 
@@ -36,7 +38,7 @@ Each row in the dataset represents one person who responded to the National 2009
 <a href = "https://www.cdc.gov/nchs/index.htm"> National Centre for Health Statistics</a>.
 
 ### EDA
-There seems to be low uptake of H1N1 vaccine with on about 21% of the respondents being vaccinated. Illustrated in the bar graph below:
+There seems to be low uptake of H1N1 vaccine with on about 21% of the respondents being vaccinated. Illustrated in the bar graph below: <a href="https://github.com/Rachael-Osoro/phase_3_project/blob/main/H1N1_analysis.ipynb">more viz and EDA here</a>
 
 ![](https://github.com/Rachael-Osoro/git_practice/blob/master/Photos/h1n1.png)
 ### Final Model
@@ -66,5 +68,6 @@ Data is not recent hence model may not depict current H1N1 vaccine uptake.
 # Dependencies
 Python,
 sklearn,
-matplotlib.
+matplotlib, 
+XGBooster.
 
